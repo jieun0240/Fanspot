@@ -5,7 +5,7 @@
 ## Period ⏱️
 - 2024.10.21 ~
 
-## member 👥
+## Contributors 👥
 - W [2302김예나](https://github.com/kimyena0602)
 - W [2303나지은](https://github.com/jieun0240)
 
